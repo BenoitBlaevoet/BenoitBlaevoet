@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Blaevoet Benoit</h1>
 <h3 align="center">A passionate fullstack developer from Belgium</h3>
 
-- 🌱 I’m currently learning **Nuxt,Typescript**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **NodeJS, VueJS**
 
